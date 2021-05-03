@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @luisla-rivas
-- 👀 I’m interested in software that help people with nice application (mainly iOS app)
-- 🌱 I’m currently learning/working with Swift, SwiftUI, Vapor, and some C, C++ and objective-C.
-- 💞️ I’m looking to collaborate on open-source projects like FreeCAD and others related to engineering.
-- 📫 How to reach me using the contact form in luisla.com website.
+ 👋 Hi, I’m @luisla-rivas
+ 👀 I’m interested in software that help people with nice application (mainly iOS app)
+ 🌱 I’m currently learning/working with Swift, SwiftUI, Vapor, and some C, C++ and objective-C.
+ 💞️ I’m looking to collaborate on open-source projects like FreeCAD and others related to engineering.
+ 📫 How to reach me using the contact form in luisla.com website.
 
 
 <!---
